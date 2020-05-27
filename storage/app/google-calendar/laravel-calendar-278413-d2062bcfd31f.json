@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "laravel-calendar-278413",
+  "private_key_id": "d2062bcfd31fd6af549bf1dcd05b9c44ff96ce1f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCOOzVJXt0mgPL9\n07e2JK3M4FCJVmBfCr43m4ENSlFF5epVJrNbgJB5VxI4gRvZIxX2CZvSdKNXPoU8\nGMO3OfMgwoK79iYvH45HQUvmR8Yk7v0mfAfiE6PZ1lCVutLQrNHie6rOXe4jWCZh\nQ2HXZX0o2Sv6yWdGOz5OwQq/I/MiNmdUjMSTpDRrPR+7Jmm8VBlfh1V55mKMD71d\ngNuqOb7RtImpmNxv7vKc/L0YHORcp06lbn0C8UA7UinG80D8yi1qgo6EOluNlnuu\njrNkDTs/yqU6A1mfU2c/BBvCj6SZUtiFCKbt4akGzM2gm+KGNcttT0ENAnogKjPZ\nmDFDpp5FAgMBAAECggEAKGFx9wM6WVip5FusIEfYmj6jTuKZmNI1gBcjtBDB80zb\n01IaAOQG4JRSZX1uWR8HeKNwvHcF+tqSvCWxxz7qIoZm1JOFcsKMQ/mrYVVGUa0S\nbU8wc8Sss8ePeHsiqEEwk5MVwuJTHnDD8MBPMnaraqIBxQFSU1O1lGllMjA0MqWA\nJZFZ+/odO+gQ6KbN1SQiOM/yA3P4j8f5BsS9yOWLZStTJGzPa0OXRCUzaBNY8i4n\njI+kbMKVlxs6X7EB6a0JqKHe2xZtUVa5VjK3DMSN8UOEGRkkt6ZyJzzkmcUI3iim\nnwAZlOwFmtDnzmuxmIo+HRSg5qD1I1nam5nc2lOaTwKBgQC/v98NTTxRUNgrPN32\nUm9C2uHKg+IRmJXUxhHPbMW1g5zgQIev1p8Q/JLW/xIUJ4A9X35hyFFsTbduO7fl\ncTf31DuoQcLHCcO8rv3XIKKDilrfTzIv43pZBULKo2GoMmLC47VEv2fPxwNJAWs+\n/Y9kd7INfmV5vvfz3/+TOMQg7wKBgQC947OI/IjLfHKwTzR1ssYaYiNAPwN0wuag\nAu0hla0MULQbXOQvhYUlwZDHrjk91ENPj/v3bGqsZZ+cPLoLsAS3wxFZ3DkKpJT7\nLfydVqZmUK7GmoZ0yHgbqk6XvhxRZnhDeo7HRdYyOn1uXqCrEf9uo6FCrJ2tygtH\nddZG/TIMCwKBgETWtVUpLUZkJ7ceGvGblqYBvp3dywNWLDQ/B5XYDwKjRWacxBm0\ni1al1nGpEOx7YeamqdChAdpH7Fp+xf5xLw6h+ujk8vBR6RuMF0VsSeu/d/BDlljq\n6bmb0ea90Ql5TUt6RFFyBerqH5vODpqGnTwMXLfLcNLMZGgBOte3wXGxAoGAUzYo\nI7x+eaVUYNykoXsxArjEt8+lRRJvm+kMXy5HAeGPu3nuaMC7AzuapVY8sVKGGKSB\nBwDUki2KTx3xbVO6DYkG3nj56icLPjL9wzkIfEeY/2ER0LVUpNLx0980a5ta0j8v\nuDVrUuF8u9Pt1mlxpNtBvIUGJ/UlEjCaMMudldcCgYAxdPIWkExu2LjYuAFnPmPA\nmgw0hCagV0u7nJ+cc/V7ruidSqba9A9muL75ZMEh3xX0e2kowljtj6VjtocMWtBC\nugYvFAEy1g2F++V2f0ZwnkN1TlJrCtkTUIudg7/qXUYj6sWs8NZa8J03EFO2misC\noWXIWko1wqTG9xz5tgvBHw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "testiranje@laravel-calendar-278413.iam.gserviceaccount.com",
+  "client_id": "109147782204640281950",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testiranje%40laravel-calendar-278413.iam.gserviceaccount.com"
+}
