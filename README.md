@@ -1,7 +1,6 @@
-composer create-project --prefer-dist laravel/laravel laravel-calendar
-cd laravel-calendar
+composer install
 
-composer require doyche/laravel-calendar
+cp .env.example .env
 
 npm install && npm run dev
 
